@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/launcher4/!svn/ver/557/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2
+END
+ScreenShotReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/ScreenShotReceiver.java
+END
+PagedViewWithDraggableItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewWithDraggableItems.java
+END
+LauncherAnimatorUpdateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherAnimatorUpdateListener.java
+END
+DragView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DragView.java
+END
+WallpaperChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/WallpaperChooser.java
+END
+DragLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DragLayer.java
+END
+PreloadReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PreloadReceiver.java
+END
+FocusHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/FocusHelper.java
+END
+PagedViewWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewWidget.java
+END
+AppWidgetResizeFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/AppWidgetResizeFrame.java
+END
+DragController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DragController.java
+END
+PagedViewIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewIcon.java
+END
+SearchDropTargetBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/launcher4/!svn/ver/214/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/SearchDropTargetBar.java
+END
+FolderEditText.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/FolderEditText.java
+END
+WorkspaceCustomizeTabHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/WorkspaceCustomizeTabHost.java
+END
+LauncherAnimUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherAnimUtils.java
+END
+AddAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/AddAdapter.java
+END
+Alarm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/Alarm.java
+END
+Cling.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/Cling.java
+END
+DragSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DragSource.java
+END
+InstallWidgetReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/InstallWidgetReceiver.java
+END
+Launcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/launcher4/!svn/ver/213/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/Launcher.java
+END
+ShortcutAndWidgetContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/ShortcutAndWidgetContainer.java
+END
+HideFromAccessibilityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/HideFromAccessibilityHelper.java
+END
+SmoothPagedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/SmoothPagedView.java
+END
+PagedViewIconCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewIconCache.java
+END
+ItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/ItemInfo.java
+END
+LauncherProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherProvider.java
+END
+SpringLoadedDragController.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/SpringLoadedDragController.java
+END
+ApplicationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/ApplicationInfo.java
+END
+LauncherModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherModel.java
+END
+LauncherSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherSettings.java
+END
+DragScroller.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DragScroller.java
+END
+UserInitializeReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/UserInitializeReceiver.java
+END
+HandleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/HandleView.java
+END
+AllAppsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/AllAppsList.java
+END
+HolographicLinearLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/HolographicLinearLayout.java
+END
+FastBitmapDrawable.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/FastBitmapDrawable.java
+END
+Workspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/Workspace.java
+END
+InterruptibleInOutAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/InterruptibleInOutAnimator.java
+END
+LauncherAppWidgetHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherAppWidgetHost.java
+END
+Hotseat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/Hotseat.java
+END
+PagedViewCellLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewCellLayout.java
+END
+DropTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DropTarget.java
+END
+Folder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/Folder.java
+END
+StrokedTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/StrokedTextView.java
+END
+FocusOnlyTabWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/FocusOnlyTabWidget.java
+END
+IconCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/IconCache.java
+END
+WallpaperChooserDialogFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/WallpaperChooserDialogFragment.java
+END
+DeferredHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DeferredHandler.java
+END
+LauncherApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/launcher4/!svn/ver/557/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherApplication.java
+END
+AppsCustomizeTabHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/AppsCustomizeTabHost.java
+END
+LauncherViewPropertyAnimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherViewPropertyAnimator.java
+END
+WorkspaceCustomizePagedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/WorkspaceCustomizePagedView.java
+END
+TweenCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/TweenCallback.java
+END
+LauncherAppWidgetHostView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherAppWidgetHostView.java
+END
+HolographicOutlineHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/HolographicOutlineHelper.java
+END
+AppsCustomizePagedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/AppsCustomizePagedView.java
+END
+ButtonDropTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/ButtonDropTarget.java
+END
+CheckLongPressHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/CheckLongPressHelper.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/Utilities.java
+END
+PagedView.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedView.java
+END
+PagedViewWidgetImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewWidgetImageView.java
+END
+CellLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/CellLayout.java
+END
+DrawableStateProxyView.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DrawableStateProxyView.java
+END
+AccessibleTabView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/AccessibleTabView.java
+END
+PagedViewGridLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewGridLayout.java
+END
+LauncherAppWidgetInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/LauncherAppWidgetInfo.java
+END
+PagedViewCellLayoutChildren.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PagedViewCellLayoutChildren.java
+END
+FolderIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/FolderIcon.java
+END
+ShortcutInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/ShortcutInfo.java
+END
+InfoDropTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/InfoDropTarget.java
+END
+FolderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/FolderInfo.java
+END
+SymmetricalLinearTween.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/SymmetricalLinearTween.java
+END
+InstallShortcutReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/InstallShortcutReceiver.java
+END
+PendingAddItemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/PendingAddItemInfo.java
+END
+HolographicViewHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/HolographicViewHelper.java
+END
+UninstallShortcutReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/UninstallShortcutReceiver.java
+END
+BubbleTextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/BubbleTextView.java
+END
+HolographicImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/HolographicImageView.java
+END
+DeleteDropTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/launcher2/DeleteDropTarget.java
+END

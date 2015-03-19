@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util
+END
+JobLimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/JobLimiter.java
+END
+PriorityThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/PriorityThreadFactory.java
+END
+ThreadPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/ThreadPool.java
+END
+Future.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/Future.java
+END
+MediaSetUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/MediaSetUtils.java
+END
+LinkedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/LinkedNode.java
+END
+IdentityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/IdentityCache.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/FileUtil.java
+END
+DensityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/DensityUtil.java
+END
+SpinnerVisibilitySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/SpinnerVisibilitySetter.java
+END
+InterruptableOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/InterruptableOutputStream.java
+END
+GalleryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/GalleryUtils.java
+END
+FutureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/FutureListener.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/Log.java
+END
+UpdateHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/UpdateHelper.java
+END
+ReverseGeocoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/ReverseGeocoder.java
+END
+BitmapHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/BitmapHelp.java
+END
+DBUtils_openHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/DBUtils_openHelper.java
+END
+IntArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/IntArray.java
+END
+FutureTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/FutureTask.java
+END
+CacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/util/CacheManager.java
+END

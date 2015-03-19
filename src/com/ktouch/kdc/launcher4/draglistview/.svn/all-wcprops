@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/launcher4/!svn/ver/637/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview
+END
+WarpDSLV.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/WarpDSLV.java
+END
+BGHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/BGHandle.java
+END
+CursorDSLV.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/CursorDSLV.java
+END
+ArbItemSizeDSLV.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/ArbItemSizeDSLV.java
+END
+Launcherl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/Launcherl.java
+END
+DSLVFragmentBGHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/DSLVFragmentBGHandle.java
+END
+RemoveModeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/RemoveModeDialog.java
+END
+SettingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/637/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/SettingFilter.java
+END
+SingleChoiceListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/SingleChoiceListView.java
+END
+TestBedDSLV.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/TestBedDSLV.java
+END
+DSLVFragmentClicks.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/288/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/DSLVFragmentClicks.java
+END
+DragInitModeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/DragInitModeDialog.java
+END
+Sections.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/Sections.java
+END
+EnablesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/EnablesDialog.java
+END
+CheckableLinearLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/CheckableLinearLayout.java
+END
+DSLVFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/553/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/DSLVFragment.java
+END
+MultipleChoiceListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/283/trunk/Previewer/src/com/ktouch/kdc/launcher4/draglistview/MultipleChoiceListView.java
+END

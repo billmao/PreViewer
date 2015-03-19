@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/launcher4/!svn/ver/591/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/pano
+END
+MosaicRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/pano/MosaicRenderer.java
+END
+MosaicPreviewRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/pano/MosaicPreviewRenderer.java
+END
+MosaicFrameProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/pano/MosaicFrameProcessor.java
+END
+Mosaic.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/pano/Mosaic.java
+END
+PanoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/pano/PanoUtil.java
+END
+MosaicProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/591/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/pano/MosaicProxy.java
+END

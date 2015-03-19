@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/launcher4/!svn/ver/378/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui
+END
+FocusHudRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/FocusHudRing.java
+END
+HudRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/HudRing.java
+END
+SavePinger.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/SavePinger.java
+END
+ReviewDrawer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/launcher4/!svn/ver/329/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/ReviewDrawer.java
+END
+SwitchRingPad.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/SwitchRingPad.java
+END
+PanoProgressBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/PanoProgressBar.java
+END
+SideBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/SideBar.java
+END
+RuleOfThirds.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/RuleOfThirds.java
+END
+WidgetRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/WidgetRenderer.java
+END
+Notifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/launcher4/!svn/ver/378/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/Notifier.java
+END
+CenteredSeekBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/CenteredSeekBar.java
+END
+PreviewFrameLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/PreviewFrameLayout.java
+END
+ShutterButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/372/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/ShutterButton.java
+END
+ThumbnailFlinger.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/ThumbnailFlinger.java
+END
+ExposureHudRing.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/ExposureHudRing.java
+END
+CircleTimerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/306/trunk/Previewer/src/com/ktouch/kdc/launcher4/camera/ui/CircleTimerView.java
+END

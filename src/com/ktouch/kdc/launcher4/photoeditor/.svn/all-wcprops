@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor
+END
+OnDoneCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/OnDoneCallback.java
+END
+PhotoEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/PhotoEditor.java
+END
+ActionBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/ActionBar.java
+END
+Toolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/Toolbar.java
+END
+EffectsBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/EffectsBar.java
+END
+EffectsMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/EffectsMenu.java
+END
+LoadScreennailTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/LoadScreennailTask.java
+END
+FilterStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/FilterStack.java
+END
+SaveCopyTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/SaveCopyTask.java
+END
+SpinnerProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/SpinnerProgressDialog.java
+END
+PhotoView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/PhotoView.java
+END
+RendererUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/RendererUtils.java
+END
+Photo.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/Photo.java
+END
+YesNoCancelDialogBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/YesNoCancelDialogBuilder.java
+END
+OnDoneBitmapCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/OnDoneBitmapCallback.java
+END
+RestorableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/RestorableView.java
+END
+BitmapUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/BitmapUtils.java
+END

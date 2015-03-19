@@ -1,0 +1,82 @@
+8
+
+dir
+666
+http://liufengzhen.benywave.cn/svn/launcher4/trunk/Previewer/src/com/ktouch/kdc/launcher4
+http://liufengzhen.benywave.cn/svn/launcher4
+
+
+
+2015-02-13T06:45:20.650664Z
+666
+liufzh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2c1ca50b-84a0-5043-90cc-b4208d40b033
+
+adapter
+dir
+
+app
+dir
+
+picasasource
+dir
+
+launcher2
+dir
+
+anim
+dir
+
+feedback
+dir
+
+camera
+dir
+
+common
+dir
+
+provider
+dir
+
+gadget
+dir
+
+guide
+dir
+
+model
+dir
+
+photoeditor
+dir
+
+settings
+dir
+
+draglistview
+dir
+
+data
+dir
+
+ui
+dir
+
+util
+dir
+

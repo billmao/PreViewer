@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions
+END
+AbstractSeekBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/AbstractSeekBar.java
+END
+CropAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/CropAction.java
+END
+DoodleView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/DoodleView.java
+END
+DoodleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/DoodleAction.java
+END
+HighlightAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/HighlightAction.java
+END
+StraightenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/StraightenAction.java
+END
+LomoishAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/LomoishAction.java
+END
+RedEyeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/RedEyeAction.java
+END
+FillLightAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/FillLightAction.java
+END
+AutoFixAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/AutoFixAction.java
+END
+TouchView.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/TouchView.java
+END
+EffectToolFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/EffectToolFactory.java
+END
+CrossProcessAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/CrossProcessAction.java
+END
+SaturationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/SaturationAction.java
+END
+EffectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/EffectAction.java
+END
+ColorTemperatureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/ColorTemperatureAction.java
+END
+FisheyeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/FisheyeAction.java
+END
+FullscreenToolView.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/FullscreenToolView.java
+END
+GrainAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/GrainAction.java
+END
+FaceTanAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/FaceTanAction.java
+END
+SepiaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/SepiaAction.java
+END
+NegativeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/NegativeAction.java
+END
+DoodlePaint.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/DoodlePaint.java
+END
+Doodle.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/Doodle.java
+END
+GrayscaleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/GrayscaleAction.java
+END
+FaceliftAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/FaceliftAction.java
+END
+ColorSeekBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/ColorSeekBar.java
+END
+DuotoneAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/DuotoneAction.java
+END
+TintAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/TintAction.java
+END
+PosterizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/PosterizeAction.java
+END
+VignetteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/VignetteAction.java
+END
+ShadowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/ShadowAction.java
+END
+ScaleSeekBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/ScaleSeekBar.java
+END
+FlipView.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/FlipView.java
+END
+DocumentaryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/DocumentaryAction.java
+END
+FlipAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/FlipAction.java
+END
+RotateView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/RotateView.java
+END
+RotateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/RotateAction.java
+END
+CropView.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/CropView.java
+END
+SharpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/launcher4/!svn/ver/176/trunk/Previewer/src/com/ktouch/kdc/launcher4/photoeditor/actions/SharpenAction.java
+END
